@@ -1,0 +1,195 @@
+[17:54:03] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[17:54:03] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) for Minecraft 26.1.2
+[17:54:03] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[17:54:04] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[17:54:04] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+ - Geyser-Spigot (2.10.1-SNAPSHOT), floodgate (2.2.5-SNAPSHOT (b138-fc99cfc))
+[17:54:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[17:54:11] [ServerMain/INFO]: Loaded 1515 recipes
+[17:54:11] [ServerMain/INFO]: Loaded 1617 advancements
+[17:54:11] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[17:54:11] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 382.1ms
+[17:54:11] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[17:54:11] [Server thread/INFO]: Loading properties
+[17:54:11] [Server thread/INFO]: This server is running Paper version 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) (Implementing API version 26.1.2.build.60-stable)
+[17:54:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[17:54:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:54:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:54:13] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[17:54:14] [Server thread/INFO]: Default game type: SURVIVAL
+[17:54:14] [Server thread/INFO]: Generating keypair
+[17:54:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:54:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:54:14] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[17:54:14] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b138-fc99cfc)
+[17:54:15] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[17:54:15] [Server thread/INFO]: [floodgate] Took 995ms to boot Floodgate
+[17:54:15] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.10.1-SNAPSHOT
+[17:54:16] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[17:54:16] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[17:54:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:54:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:54:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:54:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:54:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:54:16] [Server thread/INFO]: Preparing level "world"
+[17:54:16] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[17:54:16] [Server thread/INFO]: Preparing spawn area: 100%
+[17:54:16] [Server thread/INFO]: Prepared spawn area in 1 ms
+[17:54:16] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[17:54:16] [Server thread/INFO]: Preparing spawn area: 100%
+[17:54:16] [Server thread/INFO]: Prepared spawn area in 1 ms
+[17:54:16] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[17:54:16] [Server thread/INFO]: Preparing spawn area: 100%
+[17:54:16] [Server thread/INFO]: Prepared spawn area in 2 ms
+[17:54:16] [Server thread/INFO]: Done preparing level "world" (0.454s)
+[17:54:16] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b138-fc99cfc)
+[17:54:17] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.10.1-SNAPSHOT
+[17:54:18] [Server thread/INFO]: [spark] Starting background profiler...
+[17:54:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:54:19] [Server thread/INFO]: [Geyser-Spigot] 
+[17:54:19] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.10.1-b1177 (git-master-232f873)
+[17:54:19] [Server thread/INFO]: [Geyser-Spigot] 
+[17:54:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[17:54:23] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[17:54:23] [Server thread/INFO]: [Geyser-Spigot] Done (3.765s)! Run /geyser help for help!
+[17:54:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:54:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:54:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:54:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:54:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:54:23] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:54:23] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:54:23] [Server thread/INFO]: Running delayed init tasks
+[17:54:23] [Server thread/INFO]: Done (22.007s)! For help, type "help"
+[17:54:24] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 14 build(s) behind ***
+[17:54:24] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[17:57:08] [User Authenticator #0/INFO]: UUID of player LAROCA221 is b3d3c16b-ff81-3678-9cce-d3f8a4ca30c2
+[17:57:10] [Server thread/INFO]: LAROCA221 joined the game
+[17:57:10] [Server thread/INFO]: LAROCA221[/10.119.159.147:51394] logged in with entity id 68 at ([minecraft:overworld]-315.73216307128416, 63.0, -420.9467126916236)
+[17:57:21] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[17:57:22] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[17:57:44] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[17:59:54] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[18:00:10] [Server thread/INFO]: LAROCA221 lost connection: Disconnected
+[18:00:10] [Server thread/INFO]: LAROCA221 left the game
+[18:05:45] [User Authenticator #1/INFO]: UUID of player LAROCA221 is b3d3c16b-ff81-3678-9cce-d3f8a4ca30c2
+[18:05:47] [Server thread/INFO]: LAROCA221 joined the game
+[18:05:47] [Server thread/INFO]: LAROCA221[/10.119.159.147:57122] logged in with entity id 683 at ([minecraft:overworld]-369.2890878972881, 69.0, -420.4812300037841)
+[18:19:52] [User Authenticator #2/INFO]: UUID of player kenji1234 is b9c2ca48-d0ca-3b91-b5e6-c6a9b7065102
+[18:19:55] [Server thread/INFO]: kenji1234 joined the game
+[18:19:55] [Server thread/INFO]: kenji1234[/10.119.159.1:54685] logged in with entity id 2146 at ([minecraft:overworld]-9.5, 66.0, 2.5)
+[18:20:11] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[18:20:19] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[18:20:26] [Server thread/WARN]: kenji1234 moved too quickly! 8.347404052929534,-1.127890238205481,5.621297812392716
+[18:20:26] [Server thread/INFO]: LAROCA221 has made the advancement [Cover Me with Diamonds]
+[18:21:13] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[18:26:27] [Server thread/INFO]: kenji1234 has made the advancement [Stone Age]
+[18:27:32] [Server thread/INFO]: kenji1234 has made the advancement [Getting an Upgrade]
+[18:31:04] [Server thread/INFO]: kenji1234 was blown up by Creeper
+[18:31:21] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234 LAROCA221
+[18:31:21] [Server thread/INFO]: [LAROCA221: Teleported kenji1234 to LAROCA221]
+[18:36:57] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[18:36:59] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[18:37:09] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[18:37:40] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[18:40:20] [Server thread/INFO]: kenji1234 has made the advancement [Acquire Hardware]
+[18:42:39] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[18:42:50] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[18:47:04] [Server thread/INFO]: kenji1234 has made the advancement [Best Friends Forever]
+[18:49:43] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[18:50:52] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[18:52:19] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[18:52:34] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[18:54:38] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[18:54:56] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[18:58:21] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:00:28] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:02:30] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:02:54] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:04:29] [Server thread/INFO]: kenji1234 has made the advancement [Monster Hunter]
+[19:06:04] [Server thread/INFO]: kenji1234 was slain by Zombie
+[19:06:25] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234 LAROCA221
+[19:06:25] [Server thread/INFO]: [LAROCA221: Teleported kenji1234 to LAROCA221]
+[19:09:11] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:09:13] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:09:15] [Server thread/INFO]: [LAROCA221: Set own game mode to Spectator Mode]
+[19:10:29] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:10:38] [Server thread/INFO]: [LAROCA221: Set own game mode to Spectator Mode]
+[19:10:47] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:10:48] [Server thread/INFO]: LAROCA221 fell from a high place
+[19:10:55] [Server thread/INFO]: [LAROCA221: Set own game mode to Spectator Mode]
+[19:11:28] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:11:30] [Server thread/INFO]: [LAROCA221: Set own game mode to Spectator Mode]
+[19:11:36] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:11:37] [Server thread/INFO]: [LAROCA221: Set own game mode to Spectator Mode]
+[19:12:29] [Server thread/INFO]: LAROCA221 issued server command: /tp LAROCA221
+[19:12:29] [Server thread/INFO]: [LAROCA221: Teleported LAROCA221 to LAROCA221]
+[19:12:39] [Server thread/INFO]: LAROCA221 issued server command: /tp
+[19:12:49] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234
+[19:12:49] [Server thread/INFO]: [LAROCA221: Teleported LAROCA221 to kenji1234]
+[19:13:10] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:13:13] [Server thread/INFO]: LAROCA221 fell from a high place
+[19:13:16] [Server thread/INFO]: [LAROCA221: Set own game mode to Spectator Mode]
+[19:13:52] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:13:54] [Server thread/INFO]: [LAROCA221: Set own game mode to Spectator Mode]
+[19:14:05] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:14:09] [Server thread/INFO]: kenji1234 has made the advancement [Sweet Dreams]
+[19:14:21] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:14:53] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:15:01] [Server thread/INFO]: kenji1234 has made the advancement [Isn't It Iron Pick]
+[19:15:09] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:15:25] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:17:15] [Server thread/INFO]: Villager Villager['Villager'/20478, uuid='05a27175-6cf3-4d57-8059-45633f61e2fa', l='ServerLevel[world]', x=-343.49, y=73.94, z=-414.07, cpos=[-22, -26], tl=4287, v=true] died, message: 'Villager was slain by LAROCA221'
+[19:20:46] [Server thread/INFO]: kenji1234 was shot by Skeleton
+[19:22:16] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234 -1334 120 -859
+[19:22:16] [Server thread/INFO]: [LAROCA221: Teleported kenji1234 to -1333.500000, 120.000000, -858.500000]
+[19:22:25] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234 -1334 119 -859
+[19:22:25] [Server thread/INFO]: [LAROCA221: Teleported kenji1234 to -1333.500000, 119.000000, -858.500000]
+[19:22:29] [Server thread/INFO]: kenji1234 suffocated in a wall
+[19:22:31] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234 -1334 100 -859
+[19:22:31] [Server thread/INFO]: [LAROCA221: Teleported kenji1234 to -1333.500000, 100.000000, -858.500000]
+[19:22:35] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234 -1334 110 -859
+[19:22:35] [Server thread/INFO]: [LAROCA221: Teleported kenji1234 to -1333.500000, 110.000000, -858.500000]
+[19:22:40] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234 -1334 115 -859
+[19:22:40] [Server thread/INFO]: [LAROCA221: Teleported kenji1234 to -1333.500000, 115.000000, -858.500000]
+[19:22:43] [Server thread/INFO]: kenji1234 suffocated in a wall
+[19:22:54] [Server thread/INFO]: LAROCA221 issued server command: /tp kenji1234 -1334 130 -859
+[19:22:54] [Server thread/INFO]: [LAROCA221: Teleported kenji1234 to -1333.500000, 130.000000, -858.500000]
+[19:23:09] [Server thread/INFO]: LAROCA221 issued server command: /gamerule keep_inventory true
+[19:23:09] [Server thread/INFO]: [LAROCA221: Gamerule keep_inventory is now set to: true]
+[19:26:30] [Server thread/INFO]: kenji1234 was slain by Zombie
+[19:36:07] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:36:12] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:37:47] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:37:48] [Server thread/INFO]: kenji1234 has made the advancement [Suit Up]
+[19:37:51] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:40:46] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:41:54] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:42:10] [Server thread/INFO]: kenji1234 was kicked due to keepalive timeout!
+[19:42:10] [Server thread/INFO]: kenji1234 lost connection: Timed out
+[19:42:10] [Server thread/INFO]: kenji1234 left the game
+[19:42:44] [User Authenticator #3/INFO]: UUID of player kenji1234 is b9c2ca48-d0ca-3b91-b5e6-c6a9b7065102
+[19:42:45] [Server thread/INFO]: kenji1234 joined the game
+[19:42:45] [Server thread/INFO]: kenji1234[/10.119.159.1:61553] logged in with entity id 31248 at ([minecraft:overworld]-348.9050356140562, 69.0, -429.36648021341057)
+[19:43:21] [Server thread/INFO]: kenji1234 was kicked due to keepalive timeout!
+[19:43:22] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:43:32] [Server thread/INFO]: kenji1234 lost connection: Timed out
+[19:43:32] [Server thread/INFO]: kenji1234 left the game
+[19:44:40] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:47:29] [User Authenticator #4/INFO]: UUID of player kenji1234 is b9c2ca48-d0ca-3b91-b5e6-c6a9b7065102
+[19:47:31] [Server thread/INFO]: kenji1234 joined the game
+[19:47:31] [Server thread/INFO]: kenji1234[/10.119.159.1:54991] logged in with entity id 31793 at ([minecraft:overworld]-378.30000001192093, 70.0, -410.48983191669925)
+[19:47:57] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:48:06] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:48:38] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:49:06] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:53:41] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:54:54] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:55:11] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:55:13] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:55:16] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:55:17] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:55:20] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
+[19:55:23] [Server thread/INFO]: [LAROCA221: Set own game mode to Survival Mode]
+[19:55:40] [Server thread/INFO]: [LAROCA221: Set own game mode to Creative Mode]
